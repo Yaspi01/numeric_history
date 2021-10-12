@@ -1,0 +1,16 @@
+body{
+	background-image: url("images/background-image.jpg");
+}
+.historique{
+	font-family: Italianno, Verdana;
+}
+
+.img{
+	width:300px;
+	height:200px;
+}
+
+.img_detail{
+	width:900px;
+	height:700px;
+}
